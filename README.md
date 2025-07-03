@@ -16,7 +16,7 @@ I'm a passionate and curious developer who loves exploring technology, building 
 ### 🛠️ I Build Solutions With:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,git,github,mysql,mongodb,aws,nodejs,express,sqlite,pytorch,tensorflow,vscode,numpy,matplotlib,sklearn,tableau,nmap,wireshark,canva" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,git,github,mysql,mongodb,aws,nodejs,express,sqlite,numpy,matplotlib,sklearn,tableau,nmap,wireshark,canva" />
 </p>
 
 ---

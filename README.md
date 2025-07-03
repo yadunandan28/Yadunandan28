@@ -16,7 +16,7 @@ I'm a passionate and curious developer who loves exploring technology, building 
 ### 🛠️ I Build Solutions With:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,androidstudio,r,git,github,mysql,mongodb,aws,nodejs,express,php,sqlite,py,pytorch,tensorflow,canva,vscode,numpy,matplotlib,sklearn,tableau,nmap,wireshark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,git,github,mysql,mongodb,aws,nodejs,express,sqlite,pytorch,tensorflow,vscode,numpy,matplotlib,sklearn,tableau,nmap,wireshark,canva" />
 </p>
 
 ---
@@ -24,9 +24,18 @@ I'm a passionate and curious developer who loves exploring technology, building 
 ### 🌐 Connect With Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yadunandan28/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yadunandan.28/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:yadunandan28704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yadunandan-s-209067257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yadunandan.28/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:yadunandan28704@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@yadunandan28704" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---

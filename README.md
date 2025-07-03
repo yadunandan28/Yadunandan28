@@ -9,7 +9,6 @@ I'm a passionate and curious developer who loves exploring technology, building 
 - 🔭 I’m currently working on: **Web Development & Cybersecurity projects**
 - 🌱 I’m currently learning: **Certified Ethical Hacking (CEH)** & **Full-stack Development**
 - 💡 Interests: **Cybersecurity | Web Development | Data Analytics**
-- 💬 Ask me about: Anything related to Android, Python, Networking or Ethical Hacking!
 - 📫 Reach me at: **yadunandan28704@gmail.com**
 
 ---
